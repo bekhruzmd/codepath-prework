@@ -76,6 +76,8 @@ An AI-powered app that estimates calories by analyzing photos of meals.
 I had challenges regarding the customization of the labels and buttons but overall it was pretty
 intuitive.
 
+Regarding the app idea, I would like to build an AR English Tutor app for Uzbek children that makes language learning fun and interactive. The idea is to use the phone’s camera to recognize everyday objects (like a cup, cat, or book) and then display the English word along with the Uzbek translation. The app would also speak the word aloud so kids can hear the correct pronunciation. To keep children engaged, I’d add simple gamification features like challenges (“Find 3 red objects” or “Point to something that flies”). Over time, the app could track progress and unlock new vocabulary categories, making it both educational and enjoyable.
+
 ## License
 
     Copyright [2025] [Bekhruz]
